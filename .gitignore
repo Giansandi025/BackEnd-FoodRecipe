@@ -1,0 +1,6 @@
+/Documentation
+/Flowchart
+/node_modules
+/foodrecipe-backend
+.env
+public/*
